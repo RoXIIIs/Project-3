@@ -101,6 +101,10 @@ int main()
 
 	cout << "Thank you for using this program!\n";
 
+	cout << "\n" << endl;
+
+	system("pause");
+
 
 	return 0;
 }
